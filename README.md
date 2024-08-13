@@ -10,8 +10,11 @@ npm install
 copier le .env envoyé dans le mail, sinon créer une base de donnée avec Atlas sur le site de MongoDB, et mettre dans le .env  
 les variables MONGODB_URL avec la connexion string, PORT avec le port d'écoute et JWT_SECRET avec un mot passe pour la signature  
 de token par le serveur.
+
+4 - Lancer le serveur:
+npm start
   
-4 - Tester les routes  
+5 - Tester les routes  
 J'ai pour ma part utilisé PostMan  
   
 Pour /register:  
