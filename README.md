@@ -1,7 +1,7 @@
 Test technique pour l'entreprise Starteg'in  
 
 1 - Cloner le repository  
-git clone <repo>  
+git clone git@github.com:aachbaro/TestTechnique.git
   
 2 - Installer les dependances:  
 npm install  
